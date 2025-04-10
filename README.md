@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # mono-market-control
 
 ## Project setup
@@ -23,6 +24,10 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# Mono-Store-Control
+Control Panel Frontend For seller profile
+>>>>>>> origin/main
 =======
 # Mono-Store-Control
 Control Panel Frontend For seller profile
